@@ -84,17 +84,6 @@
 
 ---
 
-### 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=1omega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1420&title_color=7dd3fc&icon_color=a78bfa&text_color=c9d5e8" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1omega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1420&title_color=7dd3fc&text_color=c9d5e8" alt="Top languages" height="165"/>
-
-</div>
-
----
-
 <div align="center">
 <sub>⚡ Security by day, creation by night. &nbsp;·&nbsp; <a href="https://silvernsaka.ai">silvernsaka.ai</a></sub>
 </div>
