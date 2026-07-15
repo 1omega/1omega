@@ -30,7 +30,7 @@
 </td>
 <td width="50%" valign="top">
 
-#### ✨ [PicturePerfect](https://play.google.com/store/apps/details?id=com.picper)
+#### ✨ [Glowra](https://play.google.com/store/apps/details?id=com.picper)
 **Technology-enhanced beauty treatments.** AI meets aesthetics — personalized beauty experiences powered by intelligent imaging, live on Google Play.
 
 `Android` `AI` `BeautyTech`
