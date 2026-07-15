@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-*I build intelligent systems that protect, create, and connect — from fraud-detection platforms to AI photo studios.*
+*I build intelligent systems that protect, create, and connect — from fraud-detection platforms to beauty-tech experiences.*
 
 </div>
 
@@ -30,10 +30,10 @@
 </td>
 <td width="50%" valign="top">
 
-#### 📸 [PicturePerfect](https://play.google.com/store/apps/details?id=com.picper)
-**AI photo studio in your pocket.** Mobile app for transforming everyday photos with generative AI — live on Google Play.
+#### ✨ [PicturePerfect](https://play.google.com/store/apps/details?id=com.picper)
+**Technology-enhanced beauty treatments.** AI meets aesthetics — personalized beauty experiences powered by intelligent imaging, live on Google Play.
 
-`Android` `Generative AI` `Computer Vision`
+`Android` `AI` `BeautyTech`
 
 </td>
 </tr>
